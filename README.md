@@ -1,1 +1,3 @@
-# rust_by_example
+# Rust by Example
+
+Examples to learn rust.
